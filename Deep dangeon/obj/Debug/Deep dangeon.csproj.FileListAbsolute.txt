@@ -1,0 +1,14 @@
+C:\Users\ОБЛУЧЕНЕЦ\source\repos\Deep dangeon\Deep dangeon\bin\Debug\Deep dangeon.exe.config
+C:\Users\ОБЛУЧЕНЕЦ\source\repos\Deep dangeon\Deep dangeon\bin\Debug\Deep dangeon.exe
+C:\Users\ОБЛУЧЕНЕЦ\source\repos\Deep dangeon\Deep dangeon\bin\Debug\Deep dangeon.pdb
+C:\Users\ОБЛУЧЕНЕЦ\source\repos\Deep dangeon\Deep dangeon\obj\Debug\Deep dangeon.csprojAssemblyReference.cache
+C:\Users\ОБЛУЧЕНЕЦ\source\repos\Deep dangeon\Deep dangeon\obj\Debug\Deep dangeon.csproj.CoreCompileInputs.cache
+C:\Users\ОБЛУЧЕНЕЦ\source\repos\Deep dangeon\Deep dangeon\obj\Debug\Deep dangeon.exe
+C:\Users\ОБЛУЧЕНЕЦ\source\repos\Deep dangeon\Deep dangeon\obj\Debug\Deep dangeon.pdb
+C:\Users\ОБЛУЧЕНЕЦ\Source\Repos\Deepdangeon\Deep dangeon\bin\Debug\Deep dangeon.exe.config
+C:\Users\ОБЛУЧЕНЕЦ\Source\Repos\Deepdangeon\Deep dangeon\bin\Debug\Deep dangeon.exe
+C:\Users\ОБЛУЧЕНЕЦ\Source\Repos\Deepdangeon\Deep dangeon\bin\Debug\Deep dangeon.pdb
+C:\Users\ОБЛУЧЕНЕЦ\Source\Repos\Deepdangeon\Deep dangeon\obj\Debug\Deep dangeon.csprojAssemblyReference.cache
+C:\Users\ОБЛУЧЕНЕЦ\Source\Repos\Deepdangeon\Deep dangeon\obj\Debug\Deep dangeon.csproj.CoreCompileInputs.cache
+C:\Users\ОБЛУЧЕНЕЦ\Source\Repos\Deepdangeon\Deep dangeon\obj\Debug\Deep dangeon.exe
+C:\Users\ОБЛУЧЕНЕЦ\Source\Repos\Deepdangeon\Deep dangeon\obj\Debug\Deep dangeon.pdb
